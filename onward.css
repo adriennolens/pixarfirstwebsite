@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Hahmlet', serif;
+}
+
+img {
+	height: 600px;
+	width: 100%;
+	margin-top: 10px;
+}
+
+#onward {
+	display: inline-block;
+}
+
+#onwardimg {
+	width: 50%;
+	float: left;
+	padding-right: 30px
+}
+
+#onwardinfo {
+	width: 40%;
+	float: left;
+}
+
+#arrowcolour {
+	color: white;
+}
